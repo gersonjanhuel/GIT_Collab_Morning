@@ -11,6 +11,7 @@
 		7C5352F92A2061EA00CA4770 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C5352F82A2061EA00CA4770 /* ContentView.swift */; };
 		7C5352FB2A2061EC00CA4770 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C5352FA2A2061EC00CA4770 /* Assets.xcassets */; };
 		7C5352FF2A2061EC00CA4770 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C5352FE2A2061EC00CA4770 /* Preview Assets.xcassets */; };
+		9B5545A22A20663F0066BB4B /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B5545A12A20663F0066BB4B /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		7C5352FA2A2061EC00CA4770 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C5352FC2A2061EC00CA4770 /* GIT_Collab_Morning.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = GIT_Collab_Morning.entitlements; sourceTree = "<group>"; };
 		7C5352FE2A2061EC00CA4770 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9B5545A12A20663F0066BB4B /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				7C5352FA2A2061EC00CA4770 /* Assets.xcassets */,
 				7C5352FC2A2061EC00CA4770 /* GIT_Collab_Morning.entitlements */,
 				7C5352FD2A2061EC00CA4770 /* Preview Content */,
+				9B5545A12A20663F0066BB4B /* DetailView.swift */,
 			);
 			path = GIT_Collab_Morning;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C5352F92A2061EA00CA4770 /* ContentView.swift in Sources */,
+				9B5545A22A20663F0066BB4B /* DetailView.swift in Sources */,
 				7C5352F72A2061EA00CA4770 /* GIT_Collab_MorningApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
